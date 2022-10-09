@@ -5,7 +5,7 @@ import postcsspxtoviewport from 'postcss-px-to-viewport'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'/four/',
+  // base:'/four/',
   plugins: [
 	  vue(),
     Pages({

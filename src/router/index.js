@@ -8,7 +8,7 @@ routes.push({
 
 const router = createRouter({
   history: createWebHashHistory(), // HashHistory createWebHashHistory(),
-  base:'/four/',
+  // base:'/four/',
   routes,
 })
 export default router
